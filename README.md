@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @mt5m
 <!--
  Copyright 2021 Google LLC
 
@@ -278,8 +277,3 @@ Always be sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 [maven-version-image]: https://img.shields.io/maven-central/v/com.google.appengine/appengine-api-1.0-sdk.svg
 [maven-version-link]: https://search.maven.org/search?q=g:com.google.appengine%20AND%20a:appengine-api-1.0-sdk&core=gav
 
-
-<!---
-mt5m/mt5m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
